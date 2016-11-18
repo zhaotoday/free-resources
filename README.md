@@ -16,3 +16,5 @@ https://leancloud.cn/pricing.html
 景安快云存储  
 https://cloud.zzidc.com/showStorageProduct
 
+YaoCDN  
+http://www.yaocdn.com/
