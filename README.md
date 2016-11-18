@@ -1,10 +1,10 @@
-七牛云存储
+七牛云存储  
 http://www.qiniu.com/
 
 腾讯云 - 对象存储服务  
 https://www.qcloud.com/product/cos.html
 
-华云 - 对象存储服务
+华云 - 对象存储服务  
 https://www.chinac.com/Solution/cos.html
 
 又拍云 - 又拍云联盟  
