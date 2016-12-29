@@ -11,3 +11,6 @@
 - [七牛](https://portal.qiniu.com/ssl?tab=crt)
 - [腾讯云](https://www.qcloud.com/product/ssl)
 - [沃通](https://www.wosign.com/)
+
+## 网站备份
+- [备份宝](http://www.beifenbao.cn/Home/Index/dingzhi.html)
