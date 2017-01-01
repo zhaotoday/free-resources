@@ -6,6 +6,7 @@
 - [LeanCloud](https://leancloud.cn/pricing.html)
 - [景安快云存储](https://cloud.zzidc.com/showStorageProduct)
 - [YaoCDN](http://www.yaocdn.com/)
+- [nano 云存储](http://www.nanoyun.com/)
 
 ## SSL
 - [七牛](https://portal.qiniu.com/ssl?tab=crt)
