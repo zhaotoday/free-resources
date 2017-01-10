@@ -17,4 +17,5 @@
 - [备份宝](http://www.beifenbao.cn/Home/Index/dingzhi.html)
 
 ## CDN
-- [百度云加速 - 内容分发网络CDN](http://su.baidu.com/plan.html)
+- [百度云加速](http://su.baidu.com/plan.html)
+- [知道创宇云安全](https://www.yunaq.com/)
