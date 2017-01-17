@@ -16,6 +16,7 @@
 
 ## 网站备份
 - [备份宝](http://www.beifenbao.cn/Home/Index/dingzhi.html)
+- [易备安](http://www.ebeim.com/index.php)
 
 ## CDN
 - [百度云加速](http://su.baidu.com/plan.html)
