@@ -14,6 +14,7 @@
 - [沃通](https://www.wosign.com/)
 - [Let’s Encrypt](https://letsencrypt.org/)
 - [sslforfree](https://www.sslforfree.com/)
+- [又拍云](https://console.upyun.com/toolbox/ssl/)
 
 ## 网站备份
 - [备份宝](http://www.beifenbao.cn/Home/Index/dingzhi.html)
