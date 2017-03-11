@@ -15,6 +15,7 @@
 - [Let’s Encrypt](https://letsencrypt.org/)
 - [sslforfree](https://www.sslforfree.com/)
 - [又拍云](https://console.upyun.com/toolbox/ssl/)
+- [西部数码](http://www.west.cn/web/ssl/buy/list)
 
 ## 网站备份
 - [备份宝](http://www.beifenbao.cn/Home/Index/dingzhi.html)
