@@ -24,6 +24,7 @@
 ## CDN
 - [百度云加速](http://su.baidu.com/plan.html)
 - [知道创宇云安全](https://www.yunaq.com/)
+- [魔门云](https://www.cachemoment.com/)
 
 ## 参考
 - [申请免费的SSL证书](https://itjh.net/2016/11/03/free-ssl/)
