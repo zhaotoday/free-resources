@@ -8,6 +8,7 @@
 - [YaoCDN](http://www.yaocdn.com/)
 - [nano 云存储](http://www.nanoyun.com/)
 - [网易蜂巢对象存储](https://c.163.com/dashboard#/m/nos/)
+- [UCloud 对象存储 UFile](https://www.ucloud.cn/site/product/ufile.html)
 
 ## SSL
 - [七牛](https://portal.qiniu.com/ssl?tab=crt)
