@@ -7,6 +7,7 @@
 - [景安快云存储](https://cloud.zzidc.com/showStorageProduct)
 - [YaoCDN](http://www.yaocdn.com/)
 - [nano 云存储](http://www.nanoyun.com/)
+- [网易蜂巢对象存储](https://c.163.com/dashboard#/m/nos/)
 
 ## SSL
 - [七牛](https://portal.qiniu.com/ssl?tab=crt)
